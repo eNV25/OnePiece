@@ -1,13 +1,13 @@
 
-YAML2JSON := yaml2json -p
+TOML2JSON := toml2json -p
 
 TIMESTAMP = $(shell date +%s)
 
-%.json: %.yaml
-	sed -i 's|@TIMESTAMP@|$(TIMESTAMP)|g' $<
-	cat $< | $(YAML2JSON) | jq > $@
+%.json: %.toml
+	sed -i -E '/^[[:space:]]*[^#]/s/@TIMESTAMP@/$(TIMESTAMP)/g' $<
+	cat $< | $(TOML2JSON) | jq > $@
 
-all: onepiece.json onepiece.yaml
+all: onepiece.json
 
 clean:
 	$(RM) onepiece.json
