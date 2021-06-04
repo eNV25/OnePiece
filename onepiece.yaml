@@ -1,8 +1,10 @@
 cover: https://static.wikia.nocookie.net/onepiece/images/8/86/Volume_99.png
 
 title: One Piece
-author: Oda, Eiichiro
-artist: Oda, Eiichiro
+
+author: Eiichiro Oda
+artist: Eiichiro Oda
+
 description:
 
   Gol D. Roger, a man referred to as the "Pirate King," is set to be executed by
@@ -25,3 +27,9 @@ chapters:
     last_updated: '1622800948'
     groups:
       imgur: /proxy/api/imgur/chapter/I9SVrpE
+  '1014':
+    title: A Lifelong Ham Actor
+    volume: ''
+    last_updated: '1622802167'
+    groups:
+      imgur: /proxy/api/imgur/chapter/Ai6y8iq

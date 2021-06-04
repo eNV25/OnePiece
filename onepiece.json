@@ -1,8 +1,8 @@
 {
   "cover": "https://static.wikia.nocookie.net/onepiece/images/8/86/Volume_99.png",
   "title": "One Piece",
-  "author": "Oda, Eiichiro",
-  "artist": "Oda, Eiichiro",
+  "author": "Eiichiro Oda",
+  "artist": "Eiichiro Oda",
   "description": "Gol D. Roger, a man referred to as the \"Pirate King,\" is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the Pirate King is executed and the Great Age of Pirates begins.\n\nTwenty-two years later, a young man by the name of Monkey D. Luffy is ready to embark on his own adventure, searching for One Piece and striving to become the new Pirate King. Armed with just a straw hat, a small boat, and an elastic body, he sets out on a fantastic journey to gather his own crew and a worthy ship that will take them across the Grand Line to claim the greatest status on the high seas.",
   "chapters": {
     "1015": {
@@ -11,6 +11,14 @@
       "last_updated": "1622800948",
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/I9SVrpE"
+      }
+    },
+    "1014": {
+      "title": "A Lifelong Ham Actor",
+      "volume": "",
+      "last_updated": "1622802167",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/Ai6y8iq"
       }
     }
   }
