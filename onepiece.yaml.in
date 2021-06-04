@@ -24,12 +24,12 @@ chapters:
   '1015':
     title: Chained
     volume: '0'
-    last_updated: '1622803787'
+    last_updated: '@TIMESTAMP@'
     groups:
       imgur: /proxy/api/imgur/chapter/I9SVrpE
   '1014':
     title: A Lifelong Ham Actor
     volume: '0'
-    last_updated: '1622803787'
+    last_updated: '@TIMESTAMP@'
     groups:
       imgur: /proxy/api/imgur/chapter/Ai6y8iq
