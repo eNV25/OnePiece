@@ -18,17 +18,17 @@ will take them across the Grand Line to claim the greatest status on the high \
 seas.
 """
 
-[chapters.1015]
-title = "Chained"
-volume = "0"
-last_updated = "1622824259"
-groups.imgur = "/proxy/api/imgur/chapter/I9SVrpE"
-
 [chapters.1014]
 title = "A Lifelong Ham Actor"
 volume = "0"
 last_updated = "1622824259"
 groups.imgur = "/proxy/api/imgur/chapter/Ai6y8iq"
+
+[chapters.1015]
+title = "Chained"
+volume = "0"
+last_updated = "1622824259"
+groups.imgur = "/proxy/api/imgur/chapter/I9SVrpE"
 
 # [chapters.n]
 # last_updated = "@TIMESTAMP@"
