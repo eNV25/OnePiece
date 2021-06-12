@@ -30,6 +30,12 @@ volume = "0"
 last_updated = "1622824259"
 groups.imgur = "/proxy/api/imgur/chapter/I9SVrpE"
 
+[chapters.1016]
+last_updated = "1623503245"
+title = "This is Otama!!"
+volume = "0"
+groups.imgur = "/proxy/api/imgur/chapter/r2P6diM"
+
 # [chapters.n]
 # last_updated = "@TIMESTAMP@"
 # title = "_"
