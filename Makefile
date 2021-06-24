@@ -1,12 +1,12 @@
 
 # pipx install remarshal
-TOML2JSON := toml2json -p
+YAML2JSON := yaml2json -p
 
 TIMESTAMP = $(shell date +%s)
 
-%.json: %.toml
+%.json: %.yaml
 	sed -i -E '/^[[:space:]]*[^#]/s/@TIMESTAMP@/$(TIMESTAMP)/g' $<
-	cat $< | $(TOML2JSON) | jq > $@
+	cat $< | $(YAML2JSON) | jq > $@
 
 all: onepiece.json
 
