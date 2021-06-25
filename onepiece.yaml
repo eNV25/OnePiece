@@ -18,22 +18,33 @@ description: >
   on a fantastic journey to gather his own crew and a worthy ship that will take them
   across the Grand Line to claim the greatest status on the high seas.
 
+
 chapters:
+
   1014:
     title: A Lifelong Ham Actor
     last_updated: 1622824260
     groups:
       imgur: /proxy/api/imgur/chapter/Ai6y8iq
+
   1015:
     title: Chained
     last_updated: 1622824261
     groups:
       imgur: /proxy/api/imgur/chapter/I9SVrpE
+
   1016:
     title: This is Otama!!
     last_updated: 1623503246
     groups:
       imgur: /proxy/api/imgur/chapter/r2P6diM
+
+  1017:
+    title: Orders
+    last_updated: 1624606425
+    groups:
+      imgur: /proxy/api/imgur/chapter/C8sePej
+
 
 # chapters:
 #   <number>:
