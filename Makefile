@@ -1,12 +1,12 @@
 
 # pipx install remarshal
-YAML2JSON := yaml2json -p
+YAML2JSON := yaml2json --preserve-key-order --indent-json 2
 
 TIMESTAMP = $(shell date +%s)
 
 %.json: %.yaml
-	sed -i -E '/^[[:space:]]*[^#]/s/@TIMESTAMP@/$(TIMESTAMP)/g' $<
-	cat $< | $(YAML2JSON) | jq > $@
+	sed --in-place '/#.*@TIMESTAMP@/!s/@TIMESTAMP@/$(TIMESTAMP)/g' $<
+	$(YAML2JSON) < $< > $@
 
 all: onepiece.json
 
