@@ -51,6 +51,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/HirOCQW
 
+  1019:
+    title: Triceracopter
+    last_updated: 1626420305
+    groups:
+      imgur: /proxy/api/imgur/chapter/5nnV0Am
+
 # chapters:
 #   <number>:
 #     title: <>
