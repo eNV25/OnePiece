@@ -57,6 +57,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/5nnV0Am
 
+  1020:
+    title: Robin vs. Black Maria
+    last_updated: 1627632354
+    groups:
+      imgur: /proxy/api/imgur/chapter/jwV40F7
+
 # chapters:
 #   <number>:
 #     title: <>
