@@ -18,9 +18,7 @@ description: >
   on a fantastic journey to gather his own crew and a worthy ship that will take them
   across the Grand Line to claim the greatest status on the high seas.
 
-
   https://github.com/eNV25/OnePiece
-
 
 chapters:
 
@@ -65,6 +63,12 @@ chapters:
     last_updated: 1627632354
     groups:
       imgur: /proxy/api/imgur/chapter/jwV40F7
+
+  1021:
+    title: Demonio
+    last_updated: 1628234781
+    groups:
+      imgur: /proxy/api/imgur/chapter/w5aHHF2
 
 # chapters:
 #   <number>:
