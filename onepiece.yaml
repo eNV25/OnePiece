@@ -70,6 +70,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/w5aHHF2
 
+  1022:
+    title: The Stars Take the Stage
+    last_updated: 1629452265
+    groups:
+      imgur: /proxy/api/imgur/chapter/KOe7IvT
+
 # chapters:
 #   <number>:
 #     title: <>
