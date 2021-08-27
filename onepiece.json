@@ -67,6 +67,13 @@
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/KOe7IvT"
       }
+    },
+    "1023": {
+      "title": "Two Peas in a Pod",
+      "last_updated": 1630053670,
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/2fsek04"
+      }
     }
   }
 }
