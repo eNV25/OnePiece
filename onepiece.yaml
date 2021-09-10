@@ -88,6 +88,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/LU41JqK
 
+  1025:
+    title: Twin Dragons
+    last_updated: 1631261467
+    groups:
+      imgur: /proxy/api/imgur/chapter/dHe0SBM
+
 # chapters:
 #   <number>:
 #     title: <>
