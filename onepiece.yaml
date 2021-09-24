@@ -94,6 +94,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/dHe0SBM
 
+  1026:
+    title: 'Tennōzan: Turning Point'
+    last_updated: 1632476373
+    groups:
+      imgur: /proxy/api/imgur/chapter/KL3iByd
+
 # chapters:
 #   <number>:
 #     title: <>
