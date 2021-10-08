@@ -106,6 +106,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/ES89ao2
 
+  1028:
+    title: Brachiosaur-Hiss
+    last_updated: 1633689151
+    groups:
+      imgur: /proxy/api/imgur/chapter/qSVjLbA
+
 # chapters:
 #   <number>:
 #     title: <>
