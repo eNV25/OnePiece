@@ -112,6 +112,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/qSVjLbA
 
+  1029:
+    title: The Tower
+    last_updated: 1634892459
+    groups:
+      imgur: /proxy/api/imgur/chapter/7UAYoez
+
 # chapters:
 #   <number>:
 #     title: <>
