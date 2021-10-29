@@ -118,6 +118,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/7UAYoez
 
+  1030:
+    title: The Impermenence of All Things
+    last_updated: 1635495330
+    groups:
+      imgur: /proxy/api/imgur/chapter/Z1SMyCZ
+
 # chapters:
 #   <number>:
 #     title: <>
