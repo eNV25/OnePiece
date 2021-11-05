@@ -124,6 +124,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/Z1SMyCZ
 
+  1031:
+    title: Soldier of Science
+    last_updated: 1636101199
+    groups:
+      imgur: /proxy/api/imgur/chapter/zxZkdFv
+
 # chapters:
 #   <number>:
 #     title: <>
