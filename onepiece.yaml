@@ -130,6 +130,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/zxZkdFv
 
+  1032:
+    title: Oden's Beloved Sword
+    last_updated: 1637315481
+    groups:
+      imgur: /proxy/api/imgur/chapter/YvnFzaA
+
 # chapters:
 #   <number>:
 #     title: <>
