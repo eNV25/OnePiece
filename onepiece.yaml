@@ -136,6 +136,12 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/YvnFzaA
 
+  1033:
+    title: Shimotsuki Kozaburo
+    last_updated: 1637920898
+    groups:
+      imgur: /proxy/api/imgur/chapter/mesGF2e
+
 # chapters:
 #   <number>:
 #     title: <>
