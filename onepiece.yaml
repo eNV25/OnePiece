@@ -95,7 +95,8 @@ chapters:
       imgur: /proxy/api/imgur/chapter/dHe0SBM
 
   1026:
-    title: 'Tennōzan: Turning Point'
+    title: >-
+      Tennōzan: Turning Point
     last_updated: 1632476373
     groups:
       imgur: /proxy/api/imgur/chapter/KL3iByd
@@ -160,9 +161,15 @@ chapters:
     groups:
       imgur: /proxy/api/imgur/chapter/46cF8Bk
 
+  1037:
+    title: Shuron Hakke
+    last_updated: 1642158746
+    groups:
+      imgur: /proxy/api/imgur/chapter/TCHeqIn
+
 # chapters:
-#   <>:
-#     title: <>
+#   :
+#     title:
 #     last_updated: @TIMESTAMP@
 #     groups:
-#       imgur: /proxy/api/imgur/chapter/<>
+#       imgur: /proxy/api/imgur/chapter/
