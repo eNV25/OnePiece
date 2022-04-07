@@ -8,7 +8,7 @@ TIMESTAMP = $(shell date +%s)
 	sed --in-place '/#.*@TIMESTAMP@/!s/@TIMESTAMP@/$(TIMESTAMP)/g' $<
 	$(YAML2JSON) < $< > $@
 
-all: onepiece.json
+all: onepiece.json onepiece_cover.json
 
 clean:
 	$(RM) onepiece.json
