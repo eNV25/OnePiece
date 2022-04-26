@@ -1,12 +1,13 @@
 {
-  "cover": "https://cdn.discordapp.com/attachments/748627454582849556/917055221820190770/Volume_101.jpeg",
   "title": "One Piece",
-  "author": "Eiichiro Oda",
+  "description": "Gol D. Roger, a man referred to as the \"Pirate King,\" is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the Pirate King is executed and the Great Age of Pirates begins.\n\nTwenty-two years later, a young man by the name of Monkey D. Luffy is ready to embark on his own adventure, searching for One Piece and striving to become the new Pirate King. Armed with just a straw hat, a small boat, and an elastic body, he sets out on a fantastic journey to gather his own crew and a worthy ship that will take them across the Grand Line to claim the greatest status on the high seas.\n\nhttps://github.com/eNV25/OnePiece\n",
   "artist": "Eiichiro Oda",
-  "description": "Gol D. Roger, a man referred to as the \"Pirate King,\" is set to be executed by the World Government. But just before his demise, he confirms the existence of a great treasure, One Piece, located somewhere within the vast ocean known as the Grand Line. Announcing that One Piece can be claimed by anyone worthy enough to reach it, the Pirate King is executed and the Great Age of Pirates begins.\n\nTwenty-two years later, a young man by the name of Monkey D. Luffy is ready to embark on his own adventure, searching for One Piece and striving to become the new Pirate King. Armed with just a straw hat, a small boat, and an elastic body, he sets out on a fantastic journey to gather his own crew and a worthy ship that will take them across the Grand Line to claim the greatest status on the high seas.\nhttps://github.com/eNV25/OnePiece\n",
+  "author": "Eiichiro Oda",
+  "cover": "https://cdn.discordapp.com/attachments/748627454582849556/917055221820190770/Volume_101.jpeg",
   "chapters": {
     "1014": {
       "title": "A Lifelong Ham Actor",
+      "volume": "",
       "last_updated": 1622824260,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/Ai6y8iq"
@@ -14,6 +15,7 @@
     },
     "1015": {
       "title": "Chained",
+      "volume": "",
       "last_updated": 1622824261,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/I9SVrpE"
@@ -21,6 +23,7 @@
     },
     "1016": {
       "title": "This is Otama!!",
+      "volume": "",
       "last_updated": 1623503246,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/r2P6diM"
@@ -28,6 +31,7 @@
     },
     "1017": {
       "title": "Orders",
+      "volume": "",
       "last_updated": 1624606425,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/C8sePej"
@@ -35,6 +39,7 @@
     },
     "1018": {
       "title": "Jinbe vs Who's Who",
+      "volume": "",
       "last_updated": 1625216509,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/HirOCQW"
@@ -42,6 +47,7 @@
     },
     "1019": {
       "title": "Triceracopter",
+      "volume": "",
       "last_updated": 1626420305,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/5nnV0Am"
@@ -49,6 +55,7 @@
     },
     "1020": {
       "title": "Robin vs. Black Maria",
+      "volume": "",
       "last_updated": 1627632354,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/jwV40F7"
@@ -56,6 +63,7 @@
     },
     "1021": {
       "title": "Demonio",
+      "volume": "",
       "last_updated": 1628234781,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/w5aHHF2"
@@ -63,6 +71,7 @@
     },
     "1022": {
       "title": "The Stars Take the Stage",
+      "volume": "",
       "last_updated": 1629452265,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/KOe7IvT"
@@ -70,6 +79,7 @@
     },
     "1023": {
       "title": "Two Peas in a Pod",
+      "volume": "",
       "last_updated": 1630053670,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/2fsek04"
@@ -77,6 +87,7 @@
     },
     "1024": {
       "title": "Nobody Important",
+      "volume": "",
       "last_updated": 1630671600,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/LU41JqK"
@@ -84,6 +95,7 @@
     },
     "1025": {
       "title": "Twin Dragons",
+      "volume": "",
       "last_updated": 1631261467,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/dHe0SBM"
@@ -91,6 +103,7 @@
     },
     "1026": {
       "title": "Tennōzan: Turning Point",
+      "volume": "",
       "last_updated": 1632476373,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/KL3iByd"
@@ -98,6 +111,7 @@
     },
     "1027": {
       "title": "An Unbelievable Disaster",
+      "volume": "",
       "last_updated": 1633075802,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/ES89ao2"
@@ -105,6 +119,7 @@
     },
     "1028": {
       "title": "Brachiosaur-Hiss",
+      "volume": "",
       "last_updated": 1633689151,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/qSVjLbA"
@@ -112,6 +127,7 @@
     },
     "1029": {
       "title": "The Tower",
+      "volume": "",
       "last_updated": 1634892459,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/7UAYoez"
@@ -119,6 +135,7 @@
     },
     "1030": {
       "title": "The Impermenence of All Things",
+      "volume": "",
       "last_updated": 1635495330,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/Z1SMyCZ"
@@ -126,6 +143,7 @@
     },
     "1031": {
       "title": "Soldier of Science",
+      "volume": "",
       "last_updated": 1636101199,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/zxZkdFv"
@@ -133,6 +151,7 @@
     },
     "1032": {
       "title": "Oden's Beloved Sword",
+      "volume": "",
       "last_updated": 1637315481,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/YvnFzaA"
@@ -140,6 +159,7 @@
     },
     "1033": {
       "title": "Shimotsuki Kozaburo",
+      "volume": "",
       "last_updated": 1637920898,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/mesGF2e"
@@ -147,6 +167,7 @@
     },
     "1034": {
       "title": "Sanji vs. Queen",
+      "volume": "",
       "last_updated": 1638521044,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/Yda7PN3"
@@ -154,6 +175,7 @@
     },
     "1035": {
       "title": "Zoro vs. King",
+      "volume": "",
       "last_updated": 1639802289,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/vS1hxwz"
@@ -161,6 +183,7 @@
     },
     "1036": {
       "title": "Bushido is the Way of Death",
+      "volume": "",
       "last_updated": 1640594899,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/46cF8Bk"
@@ -168,6 +191,7 @@
     },
     "1037": {
       "title": "Shuron Hakke",
+      "volume": "",
       "last_updated": 1642158746,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/TCHeqIn"
@@ -175,6 +199,7 @@
     },
     "1038": {
       "title": "Kid & Law & Big Mom",
+      "volume": "",
       "last_updated": 1643359274,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/fZ4feSA"
@@ -182,6 +207,7 @@
     },
     "1039": {
       "title": "The Main Attraction",
+      "volume": "",
       "last_updated": 1643971080,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/vgK5tov"
@@ -189,6 +215,7 @@
     },
     "1040": {
       "title": "Falling on Deaf Ears",
+      "volume": "",
       "last_updated": 1644577478,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/yyo4vP9"
@@ -196,6 +223,7 @@
     },
     "1041": {
       "title": "Komurasaki",
+      "volume": "",
       "last_updated": 1645786808,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/m9xKIqq"
@@ -203,6 +231,7 @@
     },
     "1042": {
       "title": "Winners Shouldn't Need Rationalizations",
+      "volume": "",
       "last_updated": 1646390386,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/S0aasxE"
@@ -210,6 +239,7 @@
     },
     "1043": {
       "title": "We Die Together",
+      "volume": "",
       "last_updated": 1647004847,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/XZNWecT"
@@ -217,6 +247,7 @@
     },
     "1044": {
       "title": "Warrior of Liberation",
+      "volume": "",
       "last_updated": 1648212788,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/tessAUA"
@@ -224,6 +255,7 @@
     },
     "1045": {
       "title": "Next Level",
+      "volume": "",
       "last_updated": 1648692765,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/CSpUQ82"
@@ -231,6 +263,7 @@
     },
     "1046": {
       "title": "Raizo",
+      "volume": "",
       "last_updated": 1649413963,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/r0MfLQ6"
@@ -238,6 +271,7 @@
     },
     "1047": {
       "title": "The Skies Above the Capital",
+      "volume": "",
       "last_updated": 1650596643,
       "groups": {
         "imgur": "/proxy/api/imgur/chapter/rXZ1w2D"
