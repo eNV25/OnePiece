@@ -1,0 +1,41 @@
+{
+  "title": "One Piece: Road to Laugh Tale",
+  "description": "During the month-long hiatus, Oda released a booklets series called Road to Laugh Tale, which presented sketches and storyboards that did not make into the main story and as well other things.",
+  "artist": "Eiichiro Oda",
+  "author": "Eiichiro Oda",
+  "cover": "https://i.imgur.com/mNT78VO.png",
+  "chapters": {
+    "1": {
+      "title": "Volume 1",
+      "volume": "1",
+      "last_updated": "1658432170",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/pLGBgFg"
+      }
+    },
+    "2": {
+      "title": "Volume 2",
+      "volume": "2",
+      "last_updated": "1658432217",
+      "groups": {
+        "imgur": "/proxy/api/imgur/chapter/L8MH3Xv"
+      }
+    },
+    "3": {
+      "title": "Volume 3",
+      "volume": "3",
+      "last_updated": "1658432255",
+      "groups": {
+        "imgur": "/proxy/api/imgbb/chapter/JxpKXk"
+      }
+    },
+    "4": {
+      "title": "Volume 4",
+      "volume": "4",
+      "last_updated": "1658432540",
+      "groups": {
+        "imgur": "/proxy/api/imgbb/chapter/d0hSsd"
+      }
+    }
+  }
+}
