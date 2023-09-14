@@ -13,6 +13,6 @@ for n in $(seq "$@"); do
 	if [ -z "$title" ]; then
 		title="$n"
 	fi
-	htmlq 'main img' -a src <"$chapter" | jq -R --arg n "$n" --arg title "$title" '{ ($n): { $title, groups: { tcbscans: [inputs] } } }'
+	htmlq 'picture img' -a src <"$chapter" | jq -n -R --arg n "$n" --arg title "$title" '{ ($n): { $title, groups: { tcbscans: [inputs] } } }'
 done >"$sum"
 jq -s 'add' "$sum"
